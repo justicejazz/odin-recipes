@@ -1,0 +1,30 @@
+h1 {
+    color: whitesmoke;
+    background-color: black;
+    font-family: helvetica, sans-serif;
+    font-size: 50px;
+}
+
+h3 {
+    color: red;
+    background-color: black;
+    font-family: "Brush Script MT", sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+
+p {
+    font-family: helvetica, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+img {
+    height: 250px;
+    width: auto;
+}
+
+ul,
+ol {
+    font-family: "courier new", sans-serif;
+}
